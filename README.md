@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahemd Mohamed Noureldin</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med-noureldin&label=Profile%20views&color=0e75b6&style=flat" alt="a7med-noureldin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a7med-noureldin" alt="a7med-noureldin" /></a> </p>
-
 - 🌱 I’m currently learning **OOP, Data structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/A7med-noureldin](https://github.com/A7med-noureldin)
@@ -24,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7med-noureldin&show_icons=true&locale=en&layout=compact" alt="a7med-noureldin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a7med-noureldin&show_icons=true&locale=en" alt="a7med-noureldin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a7med-noureldin&" alt="a7med-noureldin" /></p>
