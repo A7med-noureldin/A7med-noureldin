@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ahmed Noureldin</h1>
-<h3 align="center">A Passionate computer sceince student</h3
+<h3 align="center">A Passionate computer sceince student</h3>
 
 - Reach me out using my E-mail: **ahmednourr278@gmail.com**
 
-- Connect with me on <a href="https://linkedin.com/in/mahmoudabdelazim" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-0077B5?logo=Linkedin" width=80px alt="mahmoudabdelazim"/></a>
+- Connect with me on <a href="https://linkedin.com/in/mahmoudabdelazim" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-0077B5?logo=Linkedin" width=80px alt="Ahmed M. Elgezawy"/></a>
 
 ### My Tech-related Profiles:
 
 <a href="https://codeforces.com/profile/Geeza" target="blank"><img align="center" src="https://img.shields.io/badge/-Codeforces-black?logo=codeforces" alt="geeza"/></a>
-<a href="https://www.hackerrank.com/mahmoudabdelazim" target="blank"><img align="center" src="https://img.shields.io/badge/-HackerRank-black?logo=hackerrank" alt="mahmoudabdelazim"/>
+
+<a href="https://leetcode.com/u/Geeza1/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-black?logo=leetcode"/>
 </a>
-<a href="https://www.leetcode.com/aziim" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-black?logo=leetcode"/>
-</a>
-<a href="https://stackoverflow.com/users/10829448" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-black?logo=stackoverflow"/>
+<a href="https://stackoverflow.com/users/29079152/ahmed-mohamed-noureldin" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-black?logo=stackoverflow"/>
 </a>
 
 ### Languages:
