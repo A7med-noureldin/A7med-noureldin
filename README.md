@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Noureldin</h1>
-<h3 align="center">A Passionate computer sceince student</h3>
+<h3 align="center">A Passionate Computer Science Student</h3>
 
 - Reach me out using my E-mail: **ahmednourr278@gmail.com**
 
