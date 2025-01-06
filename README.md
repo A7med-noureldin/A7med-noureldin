@@ -3,7 +3,7 @@
 
 - Reach me out using my E-mail: **ahmednourr278@gmail.com**
 
-- Connect with me on <a href="https://www.linkedin.com/in/ahmed-m-elgezawy-4a3608295/" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-0077B5?logo=Linkedin" width=80px alt="ahmed-m-elgezawy-4a3608295"/></a>
+- Connect with me on <a href="https://www.linkedin.com/in/ahmed-m-elgezawy-4a3608295" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-0077B5?logo=Linkedin" width=80px alt="ahmed-m-elgezawy-4a3608295"/></a>
 
 
 ### My Tech-related Profiles:
