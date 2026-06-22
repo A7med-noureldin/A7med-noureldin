@@ -15,9 +15,10 @@
 </a>
 
 ### Languages:
-
 ![C++](https://img.shields.io/badge/-C++-black?logo=C)
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)
+![Go](https://img.shields.io/badge/-Go-black?logo=Go)
+![Java](https://img.shields.io/badge/-Java-black?logo=openjdk)
 
 <div align="center">
 
